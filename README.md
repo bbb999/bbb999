@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there!
+
+Pronouns: he/him
+
 
 <!--
 **bbb999/bbb999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
